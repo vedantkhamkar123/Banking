@@ -1,0 +1,4 @@
+C:\C#\Bankved\Bankved\bin\Bankved.dll
+C:\C#\Bankved\Bankved\bin\Bankved.pdb
+C:\C#\Bankved\Bankved\obj\Debug\Bankved.dll
+C:\C#\Bankved\Bankved\obj\Debug\Bankved.pdb
